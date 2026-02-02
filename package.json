@@ -15,7 +15,7 @@
 	},
 
 	"version": "1.0.0",
-	"keywords": [],
+	"keywords": ["eschool", "freecodecamp", "boilerplate", "npm", "nodejs"],
 	"license": "ISC",
 	"type": "commonjs",
 	"bugs": {
